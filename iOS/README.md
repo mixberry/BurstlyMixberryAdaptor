@@ -4,12 +4,12 @@ BurstlyMixberryAdaptor - iOS
 
 ###Mixberry SDK
 
-Download the [latest SDK here](https://s3.amazonaws.com/MixberryResources/libMBAdNetwork-burstly-4.2.a.zip).
+Download the [latest SDK here](https://s3.amazonaws.com/MixberryResources/libMBAdNetwork_Burstly-4.2.1.zip).
 
 ###Integration
 
 ####1- Download adaptor and SDK
-Download the BurstlyMixberryAdaptor “libBurstly\_Mixberry\_Adaptor.a” and Mixberry SDK “libMBAdNetwork-4.2.a”, then drag and drop them into the root folder in your project.
+Download the BurstlyMixberryAdaptor “libBurstly\_Mixberry\_Adaptor.a” and Mixberry SDK “libMBAdNetwork\_Burstly-4.2.1.a”, then drag and drop them into the root folder in your project.
 
 ####2- Add required Frameworks
 Add the following frameworks to your project:
