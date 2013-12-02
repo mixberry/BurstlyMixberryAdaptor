@@ -4,7 +4,7 @@ BurstlyMixberryAdaptor - iOS
 
 ###Mixberry SDK
 
-Download the [latest SDK here](https://s3.amazonaws.com/MixberryResources/libMBAdNetwork_Burstly-4.2.1.zip).
+Download the [latest SDK here](https://s3.amazonaws.com/MixberryResources/libMBAdNetwork_Burstly-4.2.2.zip).
 
 ###Integration
 
